@@ -41,7 +41,7 @@
       OR!
     Initialize with Tabletop.init( { key: 'https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=17CWMmcG4PwI9kB04xE9oaUhiicy5PBH4kLTfD2aOngg&output=html&widget=true' } )
       OR!
-    Initialize with Tabletop.init('0AjAPaAU9MeLFdHUxTlJiVVRYNGRJQnRmSnQwTlpoUXc')
+    Initialize with Tabletop.init('17CWMmcG4PwI9kB04xE9oaUhiicy5PBH4kLTfD2aOngg')
   */
 
   var Tabletop = function(options) {
